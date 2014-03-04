@@ -1,0 +1,13 @@
+{
+  "name": "new-project",
+  "version": "0.0.0",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-autoprefixer": "~0.0.6",
+    "gulp-changed": "^0.2.1"
+  }
+}
